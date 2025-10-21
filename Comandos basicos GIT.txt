@@ -1,3 +1,4 @@
+**Configurações iniciais**
 git config --global user.name "seu nome" --> O nome que você colocar aqui será o nome que ira aparecer toda vez que você commitar os arquivos;
 
 git config --global user.email "seuemail@exemplo.com" --> coloque o email que você criou a conta do GitHub;
@@ -20,7 +21,7 @@ git branch -M main --> Para garantir que o nome da pasta suba como main;
 
 git remote add origin <endereço que irá informar assim que um novo repositório for criado> --> Atenção, pois la no GitHub preciso selecionar o botão SSH, pois os envios feitos pelo SSH são criptografados;
 
-git push -u origion main --> Comando para subir os arquivos para o GitHub;
+git push -u origin main --> Comando para subir os arquivos para o GitHub;
 
 
 
