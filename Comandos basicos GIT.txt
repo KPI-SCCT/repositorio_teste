@@ -1,4 +1,5 @@
 **Configurações iniciais**
+**Configurações iniciais**
 git config --global user.name "seu nome" --> O nome que você colocar aqui será o nome que ira aparecer toda vez que você commitar os arquivos;
 
 git config --global user.email "seuemail@exemplo.com" --> coloque o email que você criou a conta do GitHub;
